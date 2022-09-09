@@ -1,6 +1,6 @@
 #include "stdio.h"
 
-int main(){
+int main(void){
 
     printf("Nama            : Naufal Reky Ardhana\n");
     printf("Tanggal Lahir   : 7 April 2004\n");
