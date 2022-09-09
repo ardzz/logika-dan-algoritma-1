@@ -17,18 +17,12 @@ Buatlah program yang menampilkan Nama, Tanggal Lahir, Alamat dan Asal Sekolah de
 * [Source Code](https://github.com/ardzz/logika-dan-algoritma-1/blob/master/static_biodata.c)
 * [Screenshot output](https://github.com/ardzz/logika-dan-algoritma-1/blob/master/screenshots/Screen%20Shot%202022-09-10%20at%2002.14.51.png)
 
-
-<!-- TOC -->
-    * [INSTALASI TOOLS PENGEMBANGAN PROGRAM C](#instalasi-tools-pengembangan-program-c)
-      * [Dibuat dan disusun oleh](#dibuat-dan-disusun-oleh)
-      * [Perintah](#perintah)
-      * [Hasil](#hasil)
-      * [Penjelasan kode](#penjelasan-kode)
-        * [Impor Library](#impor-library)
-        * [Mendefini Fungsi Utama](#mendefini-fungsi-utama)
-        * [Menulis Output Pada Konsol](#menulis-output-pada-konsol)
-<!-- TOC -->
-
+#### Tabel Isi
+* [INSTALASI TOOLS PENGEMBANGAN PROGRAM C](#instalasi-tools-pengembangan-program-c)
+  * [Penjelasan kode](#penjelasan-kode)
+    * [Impor Library](#impor-library)
+    * [Mendefini Fungsi Utama](#mendefini-fungsi-utama)
+    * [Menulis Output Pada Konsol](#menulis-output-pada-konsol)
 
 #### Penjelasan kode
 ##### Impor Library
